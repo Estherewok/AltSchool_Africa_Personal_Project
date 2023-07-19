@@ -2,6 +2,7 @@
 Cross-section data originating from the Medical Expenditure Panel Survey survey conducted in 1996.
 
 The aim of this project is to leverage data analysis and visualization techniques to explore key factors influencing health insurance coverage in the United States. By utilizing a cross-sectional dataset from the 1996 Medical Expenditure Panel Survey.
+You can access the dataset (https://medium.com/r/?url=https%3A%2F%2Fvincentarelbundock.github.io%2FRdatasets%2Fcsv%2FAER%2FHealthInsurance.csv).
 
 ### Project Objectives:
 
